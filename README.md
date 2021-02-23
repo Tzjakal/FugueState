@@ -8,7 +8,7 @@
 <p> <img width="49%" src="Screenshots/alchemy.png"> <img width="49%" src="Screenshots/paintings1.png"  </p>
 
 <br><br>
-<b>Read the notes to get information.</b> <b>                Collect all the crystals to escape. </b>
+<b>Read the notes to get information.</b> <b>          Collect all the crystals to escape. </b>
 <p> <img width="49%" src="Screenshots/readingnote.png"> <img width="49%" src="Screenshots/crystals_0.png"  </p>
 
 
