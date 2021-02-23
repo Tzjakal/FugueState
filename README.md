@@ -8,19 +8,10 @@ Explore different rooms and areas:
 <p> <img width="49%" src="Screenshots/alchemy.png"> <img width="49%" src="Screenshots/paintings1.png"  </p>
 
 <br><br>
-Read the notes to get informations.
+<span align="left"> Read the notes to get information. </span> <span align="right"> Collect all the crystals to escape. </span>
 <br>
-<p align="center">
-  <img width="50%" src="Screenshots/readingnote.png">
-</p>
+<p> <img width="49%" src="Screenshots/readingnote.png"> <img width="49%" src="Screenshots/crystals_0.png"  </p>
 
-
-<br><br>
-Collect all the crystals to escape.
-<br>
-<p align="center">
-  <img width="50%" src="Screenshots/crystals_0.png">
-</p>
 
 
 ------------
