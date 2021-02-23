@@ -8,7 +8,7 @@ You wake up with no memory of who you are, where you are ,and why. Your mind is 
 <p> <img width="49%" src="Screenshots/alchemy.png"> <img width="49%" src="Screenshots/paintings1.png"  </p>
 
 <br><br>
-<b align="left"> Read the notes to get information. </b> <b align="right"> Collect all the crystals to escape. </b>
+<b> Read the notes to get information. </b> <span align="right"> Collect all the crystals to escape. </span>
 <br>
 <p> <img width="49%" src="Screenshots/readingnote.png"> <img width="49%" src="Screenshots/crystals_0.png"  </p>
 
