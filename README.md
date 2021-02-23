@@ -7,13 +7,20 @@ You wake up with no memory of who you are, where you are ,and why. Your mind is 
 Explore different rooms and areas:
 <p> <img width="49%" src="Screenshots/alchemy.png"> <img width="49%" src="Screenshots/paintings1.png"  </p>
 
-<br><br><br>
+<br><br>
 Read the notes to get informations.
-<img width="50%" src="Screenshots/readingnote.png">
+<br>
+<p align="center">
+  <img width="50%" src="Screenshots/readingnote.png">
+</p>
 
-<br><br><br>
+
+<br><br>
 Collect all the crystals to escape.
-<img width="50%" src="Screenshots/crystals_0.png">
+<br>
+<p align="center">
+  <img width="50%" src="Screenshots/crystals_0.png">
+</p>
 
 
 ------------
