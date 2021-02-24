@@ -5,11 +5,11 @@
 >You wake up with no memory of who you are, where you are ,and why. Your mind is a mess and terrible noises haunt you. Escape and find out what happened. ''Fugue State'' is a first person 3D mystery,puzzle game with a dark atmosphere.
 
 <b>Explore different rooms and areas:</b>
-<p> <img width="49%" src="Screenshots/alchemy.png"> <img width="49%" height = "100%"src="Screenshots/Dinning.PNG"  </p>
+<p> <img width="49%" src="Screenshots/alchemy.png"> <img width="49%" height = "150%"src="Screenshots/Dinning.PNG"  </p>
 
 <br><br>
 <b>Read the notes to get information.</b> 
-<p> <img width="49%" src="Screenshots/Note.PNG"> <img width="49%" src="Screenshots/readingnote.png"  </p>
+<p> <img width="49%" src="Screenshots/readingnote.png"> <img width="49%" src="Screenshots/Riddles.PNG"  </p>
 
 <br><br>
 <b>Solve puzzles to progress.</b> 
@@ -17,7 +17,7 @@
   
 <br><br>
 <b>Collect items to escape.</b> 
-<p> <img width="49%" src="Screenshots/crystals_0.png"> <img width="49%" src="PickUpKey.PNG"  </p>
+<p> <img width="49%" src="Screenshots/crystals_0.png"> <img width="49%" src="Screenshots/PickUpKey.PNG"  </p>
 
 ------------
 <b>Installation Instractions</b>
